@@ -1,0 +1,230 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (23 ms)
+Loading the application in directory 'C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100'
+using cached data from file 'C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.mtbqueryapi'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (16 ms)
+Finished loading the application data (55 ms total, 0 make)
+Loading asset repository references
+Finished loading the asset repository references (52 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (4228 ms)
+Loading the device db
+Finished loading the device db (8047 ms)
+Starting to refresh dependencies for project 'mtb-example-psoc6-empty-app'.
+Refreshed all dependencies for project 'mtb-example-psoc6-empty-app'.
+0 error(s), 0 warning(s)
+Successfully acquired the information.
+Requested to add the asset 'capsense'.
+Starting to refresh dependencies for project 'mtb-example-psoc6-empty-app'.
+Refreshed all dependencies for project 'mtb-example-psoc6-empty-app'.
+
+Starting to refresh dependencies for project 'mtb-example-psoc6-empty-app'.
+Refreshed all dependencies for project 'mtb-example-psoc6-empty-app'.
+
+Changelog for project "display_oled_i2c_td2_100":
+capsense version release-v4.0.0 added
+
+Click "Update" to commit the changesUpdating application "display_oled_i2c_td2_100" ...
+Starting to commit changes to the filesystem and project 'mtb-example-psoc6-empty-app'.
+Writing mtb file for asset 'capsense' to the folder 'C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/deps'.
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/display-oled-ssd1306/release-v1.0.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/emwin/release-v6.26.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-dsp/release-v1.0.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-dsp/release-v1.0.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-light/release-v1.1.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/retarget-io/release-v1.5.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/capsense clone --origin cypress --no-checkout https://github.com/cypresssemiconductorco/capsense release-v4.0.0
+Cloning into 'release-v4.0.0'...
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/emwin/release-v6.26.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cat1cm0p/release-v1.2.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/display-oled-ssd1306/release-v1.0.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/CMSIS-DSP/v1.10.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-light/release-v1.1.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cat1cm0p/release-v1.2.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/CMSIS-DSP/v1.10.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cmsis/release-v5.8.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-hal-cat1/release-v2.4.3 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-lib/release-v1.4.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-pdl-cat1/release-v3.7.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-make/release-v3.2.2 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/recipe-make-cat1a/release-v2.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-hal-cat1/release-v2.4.3 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-dsp/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-pdl-cat1/release-v3.7.0 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+HEAD is now at e3881f9 Upload sensor-dsp 1.0.0.370 [521]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-dsp/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing sensor-dsp
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/emwin/release-v6.26.0 -c advice.detachedHead=false checkout release-v6.26.0 --force
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/recipe-make-cat1a/release-v2.1.1 fetch --recurse-submodules=no --tags --force cypress --update-head-ok "refs/heads/*:refs/heads/*" --quiet
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/display-oled-ssd1306/release-v1.0.2 -c advice.detachedHead=false checkout release-v1.0.2 --force
+HEAD is now at db7f962 Upload retarget-io [1515]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/retarget-io/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Finished processing retarget-io
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-light/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+HEAD is now at d604a6f Upload display-oled-ssd1306 [347]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/display-oled-ssd1306/release-v1.0.2 -c advice.detachedHead=false checkout release-v1.0.2 --force
+Finished processing display-oled-ssd1306
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cat1cm0p/release-v1.2.0 -c advice.detachedHead=false checkout release-v1.2.0 --force
+HEAD is now at bbf3dcc Upload sensor-light 1.1.0.25183
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/sensor-light/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Finished processing sensor-light
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/CMSIS-DSP/v1.10.1 -c advice.detachedHead=false checkout v1.10.1 --force
+HEAD is now at 68f0d3e Upload cat1cm0p 1.2.0.325 [1884]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cat1cm0p/release-v1.2.0 -c advice.detachedHead=false checkout release-v1.2.0 --force
+Finished processing cat1cm0p
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/capsense clone --origin cypress --no-checkout https://github.com/cypresssemiconductorco/capsense release-v4.0.0
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+HEAD is now at a74be8b Upload core-lib [1796]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Finished processing core-lib
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+HEAD is now at 9d88671d Changed path to VHT in Examples
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/CMSIS-DSP/v1.10.1 -c advice.detachedHead=false checkout v1.10.1 --force
+Finished processing CMSIS-DSP
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-hal-cat1/release-v2.4.3 -c advice.detachedHead=false checkout release-v2.4.3 --force
+HEAD is now at b962a1e Upload core-make 3.2.2.4739 [1647]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/core-make/release-v3.2.2 -c advice.detachedHead=false checkout release-v3.2.2 --force
+Finished processing core-make
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-pdl-cat1/release-v3.7.0 -c advice.detachedHead=false checkout release-v3.7.0 --force
+HEAD is now at 0373e75 Upload mtb-hal-cat1 [1864]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-hal-cat1/release-v2.4.3 -c advice.detachedHead=false checkout release-v2.4.3 --force
+Finished processing mtb-hal-cat1
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/recipe-make-cat1a/release-v2.1.1 -c advice.detachedHead=false checkout release-v2.1.1 --force
+HEAD is now at 94eb787 Upload mtb-pdl-cat1 3.7.0.27344 [1864]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/mtb-pdl-cat1/release-v3.7.0 -c advice.detachedHead=false checkout release-v3.7.0 --force
+Finished processing mtb-pdl-cat1
+Starting: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/capsense/release-v4.0.0 -c advice.detachedHead=false checkout release-v4.0.0 --force
+HEAD is now at 9cbdee3 Upload recipe-make-cat1a 2.1.1.4648 [1380]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/recipe-make-cat1a/release-v2.1.1 -c advice.detachedHead=false checkout release-v2.1.1 --force
+Finished processing recipe-make-cat1a
+HEAD is now at 4ed9f46 Upload emwin 6.26.0.325
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/emwin/release-v6.26.0 -c advice.detachedHead=false checkout release-v6.26.0 --force
+Finished processing emwin
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Finished processing cmsis
+HEAD is now at 2dc8cc7 Upload capsense 4.0.0.5737 [1696]
+Success: git -C C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/mtb_shared/capsense/release-v4.0.0 -c advice.detachedHead=false checkout release-v4.0.0 --force
+Finished processing capsense
+Successfully committed changes to the project 'mtb-example-psoc6-empty-app'.
+0 error(s), 0 warning(s)
+Successfully updated application "display_oled_i2c_td2_100"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+Tools Directory: C:/Users/54387/ModusToolbox/tools_3.1
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-psoc6-empty-app Debug APP_CY8CPROTO-062-4343W GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Users/54387/ModusToolbox/tools_3.1
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.cproject
+Generated C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.project
+Generated C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.mtbLaunchConfigs/display_oled_i2c_td2_100 Attach (KitProg3_MiniProg4).launch
+Generated C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.mtbLaunchConfigs/display_oled_i2c_td2_100 Debug (KitProg3_MiniProg4).launch
+Generated C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.mtbLaunchConfigs/display_oled_i2c_td2_100 Erase (KitProg3_MiniProg4).launch
+Generated C:/Users/54387/Desktop/MODUSTOOLBOX/PRACTICA_EXPERIMENTAL/display_oled_i2c_td2_100/.mtbLaunchConfigs/display_oled_i2c_td2_100 Program (KitProg3_MiniProg4).launch
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-psoc6-empty-app'.
+Refreshed all dependencies for project 'mtb-example-psoc6-empty-app'.
+
+Summary:
+Successfully updated application "display_oled_i2c_td2_100"
+Successfully refreshed dependencies.
+Done.
